@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanoy</h1>
 <h3 align="center">A passionate full Stack developer from Jamaica</h3>
 
-- 🔭 I’m currently working on [devlog-path - alogrithm visualizer](https://devpath-viz.netlify.app/)
+- 🔭 I’m currently working on [devpath - alogrithm visualizer](https://devpath-viz.netlify.app/)
 
 - 🌱 I’m currently learning **jest, cypress and react testing library**
 
