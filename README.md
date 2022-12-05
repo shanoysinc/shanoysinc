@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **jest, cypress and react testing library**
 
-- 👨‍💻 All of my projects are available at [https://shanoysinc.vercel.app/](https://shanoysinc.dev/)
+- 👨‍💻 All of my projects are available at [https://shanoysinc.dev/](https://shanoysinc.dev/)
 
 - 📝 Every now and then I write articles on [https://dev.to/shanoysinc](https://dev.to/shanoysinc)
 
