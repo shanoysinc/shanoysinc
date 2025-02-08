@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **react, typescript, react**
 
-- 📫 How to reach me **shanoy96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
