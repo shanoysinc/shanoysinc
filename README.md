@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shanoy</h1>
 <h3 align="center">A passionate full Stack developer from Jamaica</h3>
 
-- 🔭 I’m currently working on [Payo – Track lending and borrowing](https://payyo.vercel.app/)
+- 🔭 I’m currently working on [Recallie AI - Duolingo for learning anything](https://recallieai.app/)
 
-- 🌱 I’m currently learning **golang**
 
 - 👨‍💻 All of my projects are available at [https://shanoysinc.dev/](https://shanoysinc.dev/)
 
