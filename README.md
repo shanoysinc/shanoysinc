@@ -8,7 +8,7 @@
 
 - 📝 Every now and then I write articles on [https://dev.to/shanoysinc](https://dev.to/shanoysinc)
 
-- 💬 Ask me about **react, typescript, react**
+- 💬 Ask me about **react, typescript**
 
 
 <h3 align="left">Connect with me:</h3>
